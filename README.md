@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-## Olá. Eu sou o Wllysses!<br><br> Desenvolvedor Web e Estudante de Sistemas para Internet.
+## Olá. Eu sou o Wllysses!<br><br> Desenvolvedor Web Full-Stack e Formado em Sistemas para Internet.
 
 
 ## 🌐 Redes sociais:
